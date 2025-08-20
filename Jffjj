@@ -1,0 +1,4 @@
+	for _, obj in pairs(piggyFolder:GetChildren()) do
+		obj:Destroy()
+	end
+end)
